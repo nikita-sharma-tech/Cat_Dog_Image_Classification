@@ -1,6 +1,6 @@
 #  Cat vs Dog Image Classification using Deep Learning
 
-Welcome to my **Cat vs Dog Image Classification** project!  
+Welcome to my **Cat vs Dog Image Classification** project! This is my first project in my journey to becoming an AI Engineer. 
 This repository contains a deep learning solution for classifying images of cats and dogs using Convolutional Neural Networks (CNNs) in Python with TensorFlow and Keras.
 
 ##  Project Overview
